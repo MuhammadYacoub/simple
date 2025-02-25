@@ -14,7 +14,7 @@
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.9.2/html2pdf.bundle.min.js"></script>
     <style>
-        body { direction: rtl; text-align: right; background-color: #f8f9fa; font-family: 'alexandria', sans-serif; }
+        body { direction: rtl; text-align: right; background-color: #f8f9fa; font-family: 'Alexandria', sans-serif; }
         .container { max-width: 800px; margin-top: 20px; background-color: #fff; padding: 20px; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); }
         .hidden { display: none; }
         .header, .footer { text-align: center; margin: 20px 0; height: 50px ; }
@@ -182,7 +182,7 @@
         }
 
         function checkAnswer(selected, correct) {
-            userAnswers.push({ questionNumber: currentQuestion + 1, selected, correct });
+            userAnswers.push({ questionNumber: currentQuestion + 1, questionText: selectedQuestions[currentQuestion].Question, selected, correct });
             if (selected === correct) {
                 score++;
             }
@@ -203,7 +203,7 @@
             let answersReviewHTML = '<h3>مراجعة الإجابات</h3>';
             userAnswers.forEach((answer, index) => {
                 answersReviewHTML += `
-                    <p><strong>السؤال ${answer.questionNumber}:</strong></p>
+                    <p><strong>السؤال ${answer.questionNumber}:</strong> ${answer.questionText}</p>
                     <p><strong>إجابتك:</strong> ${answer.selected}</p>
                     <p><strong>الإجابة الصحيحة:</strong> ${answer.correct}</p>
                     <hr>
@@ -215,7 +215,7 @@
         function generatePDF() {
             const element = document.getElementById('result');
             html2pdf().from(element).set({
-                margin: 5,
+                margin: 1,
                 filename: 'النتيجة.pdf',
                 html2canvas: { scale: 2 },
                 jsPDF: { orientation: 'portrait' }
