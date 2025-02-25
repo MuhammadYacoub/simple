@@ -1,0 +1,1005 @@
+{
+    "Sheet1": [
+     {
+      "Q iD": 1,
+      "Program": "Word",
+      "Question": "ما هو الامتداد الافتراضي لحفظ ملف في برنامج Word؟",
+      "Correct Answer": ".docx",
+      "Wrong1": ".pdf",
+      "Wrong2": ".txt",
+      "Wrong3": ".pptx",
+      "FiveDimensionsId": 14324
+     },
+     {
+      "Q iD": 2,
+      "Program": "Word",
+      "Question": "ما هو مفتاح الاختصار المستخدم لجعل النص المحدد غامقًا ؟",
+      "Correct Answer": "Ctrl + B",
+      "Wrong1": "Ctrl + I",
+      "Wrong2": "Ctrl + U",
+      "Wrong3": "Ctrl + Shift + B",
+      "FiveDimensionsId": 14325
+     },
+     {
+      "Q iD": 3,
+      "Program": "Word",
+      "Question": "كيف تقوم بإدراج صفحة جديدة في مستند Word؟",
+      "Correct Answer": "إدراج > صفحات > صفحة فارغة",
+      "Wrong1": "ملف > جديد > مستند فارغ",
+      "Wrong2": "الصفحة الرئيسية > فقرة > فاصل صفحات",
+      "Wrong3": "تصميم > تخطيط > فاصل صفحات",
+      "FiveDimensionsId": 14326
+     },
+     {
+      "Q iD": 4,
+      "Program": "Word",
+      "Question": "ما هو مفتاح الاختصار المستخدم للتراجع عن آخر إجراء؟",
+      "Correct Answer": "Ctrl + Z",
+      "Wrong1": "Ctrl + Y",
+      "Wrong2": "Ctrl + X",
+      "Wrong3": "Ctrl + C",
+      "FiveDimensionsId": 14327
+     },
+     {
+      "Q iD": 5,
+      "Program": "Word",
+      "Question": "ما هي الأداة المستخدمة لمحاذاة النص إلى الهامش الأيسر؟",
+      "Correct Answer": "محاذاة إلى اليسار",
+      "Wrong1": "محاذاة إلى اليمين",
+      "Wrong2": "توسيط",
+      "Wrong3": "تبرير",
+      "FiveDimensionsId": 14328
+     },
+     {
+      "Q iD": 6,
+      "Program": "Word",
+      "Question": "كيف تنشئ قائمة مرقمة؟",
+      "Correct Answer": "الصفحة الرئيسية > الفقرة > الترقيم",
+      "Wrong1": "إدراج > قائمة > الترقيم",
+      "Wrong2": "تنسيق > قائمة > الترقيم",
+      "Wrong3": "أدوات > خيارات > الترقيم",
+      "FiveDimensionsId": 14329
+     },
+     {
+      "Q iD": 7,
+      "Program": "Word",
+      "Question": "ما هو مفتاح الاختصار لنسخ النص المحدد؟",
+      "Correct Answer": "Ctrl + C",
+      "Wrong1": "Ctrl + X",
+      "Wrong2": "Ctrl + V",
+      "Wrong3": "Ctrl + A",
+      "FiveDimensionsId": 14330
+     },
+     {
+      "Q iD": 8,
+      "Program": "Word",
+      "Question": "كيف تدرج صورة في مستند Word؟",
+      "Correct Answer": "إدراج > صور",
+      "Wrong1": "إدراج > أشكال",
+      "Wrong2": "إدراج > جدول",
+      "Wrong3": "إدراج > مخطط",
+      "FiveDimensionsId": 14331
+     },
+     {
+      "Q iD": 9,
+      "Program": "Word",
+      "Question": "ما هو مفتاح الاختصار لحفظ مستند؟",
+      "Correct Answer": "Ctrl + S",
+      "Wrong1": "Ctrl + P",
+      "Wrong2": "Ctrl + O",
+      "Wrong3": "Ctrl + N",
+      "FiveDimensionsId": 14332
+     },
+     {
+      "Q iD": 10,
+      "Program": "Word",
+      "Question": "\nما هي الوظيفة الأساسية لزر \"B\" في شريط الأدوات؟",
+      "Correct Answer": "يجعل النص بارزًا",
+      "Wrong1": "يجعل النص مائلاً",
+      "Wrong2": "يجعل النص تحته خط",
+      "Wrong3": "يغير حجم النص",
+      "FiveDimensionsId": 14333
+     },
+     {
+      "Q iD": 11,
+      "Program": "Word",
+      "Question": "كيف إدراج فاصل صفحة؟",
+      "Correct Answer": "إدراج > صفحات > فاصل صفحة",
+      "Wrong1": "الصفحة الرئيسية > فقرة > فاصل صفحة",
+      "Wrong2": "التصميم > تخطيط > فواصل الصفحات",
+      "Wrong3": "ملف > جديد > فاصل صفحة",
+      "FiveDimensionsId": 14334
+     },
+     {
+      "Q iD": 12,
+      "Program": "Word",
+      "Question": "ما هو مفتاح الاختصار لتحديد كل النص في المستند؟",
+      "Correct Answer": "Ctrl + A",
+      "Wrong1": "Ctrl + C",
+      "Wrong2": "Ctrl + V",
+      "Wrong3": "Ctrl + X",
+      "FiveDimensionsId": 14335
+     },
+     {
+      "Q iD": 13,
+      "Program": "Word",
+      "Question": "ما هي الأداة المستخدمة لتسطير النص المحدد؟",
+      "Correct Answer": "زر التسطير",
+      "Wrong1": "زر مائل",
+      "Wrong2": "زر عريض",
+      "Wrong3": "زر لون الخط",
+      "FiveDimensionsId": 14336
+     },
+     {
+      "Q iD": 14,
+      "Program": "Word",
+      "Question": "كيف تقوم بإدراج رأس أو تذييل في مستند؟",
+      "Correct Answer": "إدراج > رأس وتذييل",
+      "Wrong1": "التصميم > تخطيط > رأس وتذييل",
+      "Wrong2": "ملف > جديد > رأس وتذييل",
+      "Wrong3": "الصفحة الرئيسية > فقرة > رأس وتذييل",
+      "FiveDimensionsId": 14337
+     },
+     {
+      "Q iD": 15,
+      "Program": "Word",
+      "Question": "ما هو مفتاح الاختصار للصق النص المنسوخ؟",
+      "Correct Answer": "Ctrl + V",
+      "Wrong1": "Ctrl + C",
+      "Wrong2": "Ctrl + X",
+      "Wrong3": "Ctrl + A",
+      "FiveDimensionsId": 14338
+     },
+     {
+      "Q iD": 16,
+      "Program": "Word",
+      "Question": "ما هي الأداة المستخدمة لتغيير لون خط النص المحدد؟",
+      "Correct Answer": "زر لون الخط",
+      "Wrong1": "زر الخط العريض",
+      "Wrong2": "زر الخط المائل",
+      "Wrong3": "زر التسطير",
+      "FiveDimensionsId": 14339
+     },
+     {
+      "Q iD": 17,
+      "Program": "Word",
+      "Question": "كيف تقوم بإدراج جدول في مستند Word؟",
+      "Correct Answer": "إدراج > جدول",
+      "Wrong1": "إدراج > أشكال",
+      "Wrong2": "إدراج > صور",
+      "Wrong3": "إدراج > مخطط",
+      "FiveDimensionsId": 14340
+     },
+     {
+      "Q iD": 18,
+      "Program": "Word",
+      "Question": "ما هو مفتاح الاختصار لقص النص المحدد؟",
+      "Correct Answer": "Ctrl + X",
+      "Wrong1": "Ctrl + C",
+      "Wrong2": "Ctrl + V",
+      "Wrong3": "Ctrl + A",
+      "FiveDimensionsId": 14341
+     },
+     {
+      "Q iD": 19,
+      "Program": "Word",
+      "Question": "ما هي الأداة المستخدمة لمحاذاة النص إلى الهامش الأيمن؟",
+      "Correct Answer": "محاذاة لليمين",
+      "Wrong1": "محاذاة لليسار",
+      "Wrong2": "توسيط",
+      "Wrong3": "ضبط",
+      "FiveDimensionsId": 14342
+     },
+     {
+      "Q iD": 20,
+      "Program": "Word",
+      "Question": "ما هو الشريط الذي يحتوي على أوامر تنسيق النص مثل الخط والحجم",
+      "Correct Answer": "Home",
+      "Wrong1": "Insert",
+      "Wrong2": "Review",
+      "Wrong3": "View",
+      "FiveDimensionsId": 14343
+     },
+     {
+      "Q iD": 21,
+      "Program": "Word",
+      "Question": "ما هو مفتاح الاختصار لفتح مستند جديد؟",
+      "Correct Answer": "Ctrl + N",
+      "Wrong1": "Ctrl + O",
+      "Wrong2": "Ctrl + S",
+      "Wrong3": "Ctrl + P",
+      "FiveDimensionsId": 14344
+     },
+     {
+      "Q iD": 22,
+      "Program": "Word",
+      "Question": "ما هي الأداة المستخدمة لتوسيط النص؟",
+      "Correct Answer": "توسيط",
+      "Wrong1": "محاذاة لليسار",
+      "Wrong2": "محاذاة لليمين",
+      "Wrong3": "ضبط",
+      "FiveDimensionsId": 14345
+     },
+     {
+      "Q iD": 23,
+      "Program": "Word",
+      "Question": "ما هو مفتاح الاختصار لطباعة مستند؟",
+      "Correct Answer": "Ctrl + P",
+      "Wrong1": "Ctrl + S",
+      "Wrong2": "Ctrl + O",
+      "Wrong3": "Ctrl + N",
+      "FiveDimensionsId": 14346
+     },
+     {
+      "Q iD": 24,
+      "Program": "Word",
+      "Question": "ما هي الأداة التي تُستخدم لتغيير لون النص في مستند Word",
+      "Correct Answer": "Home > Font Color",
+      "Wrong1": "Insert > Chart",
+      "Wrong2": "View > Zoom",
+      "Wrong3": "New Comment",
+      "FiveDimensionsId": 14347
+     },
+     {
+      "Q iD": 25,
+      "Program": "Word",
+      "Question": "كيف تقوم بإدراج ارتباط تشعبي في مستند Word؟",
+      "Correct Answer": "إدراج > ارتباط",
+      "Wrong1": "إدراج > ارتباط تشعبي",
+      "Wrong2": "الصفحة الرئيسية > إدراج > ارتباط",
+      "Wrong3": "التصميم > إدراج > ارتباط تشعبي",
+      "FiveDimensionsId": 14348
+     },
+     {
+      "Q iD": 76,
+      "Program": "Excel",
+      "Question": "أي مفتاح يستخدم لإدخال دالة في خلية؟",
+      "Correct Answer": " (علامة يساوي =)",
+      "Wrong1": "  =+ (@علامة زائد)",
+      "Wrong2": "(علامة نجمية)",
+      "Wrong3": "\/ (شرطة مائلة للأمام)",
+      "FiveDimensionsId": 14399
+     },
+     {
+      "Q iD": 77,
+      "Program": "Excel",
+      "Question": "ما هي الوحدة الأساسية للبيانات في Excel؟",
+      "Correct Answer": "خلية",
+      "Wrong1": " صف",
+      "Wrong2": "عمود",
+      "Wrong3": "ورقة عمل",
+      "FiveDimensionsId": 14400
+     },
+     {
+      "Q iD": 78,
+      "Program": "Excel",
+      "Question": "أي دالة تستخدم لجمع نطاق من الخلايا؟",
+      "Correct Answer": "مجموع",
+      "Wrong1": "متوسط",
+      "Wrong2": "عد",
+      "Wrong3": "الحد الأقصى",
+      "FiveDimensionsId": 14401
+     },
+     {
+      "Q iD": 79,
+      "Program": "Excel",
+      "Question": "كيف تحدد نطاقًا من الخلايا؟",
+      "Correct Answer": "انقر واسحب الماوس",
+      "Wrong1": "انقر نقرًا مزدوجًا فوق الخلية",
+      "Wrong2": "اضغط على مفتاح الإدخال",
+      "Wrong3": "اضغط على مفتاح Tab",
+      "FiveDimensionsId": 14402
+     },
+     {
+      "Q iD": 80,
+      "Program": "Excel",
+      "Question": "ما هو مفتاح الاختصار للتراجع عن الإجراء الأخير؟",
+      "Correct Answer": "Ctrl + Z",
+      "Wrong1": "Ctrl + Y",
+      "Wrong2": "Ctrl + X",
+      "Wrong3": "Ctrl + C",
+      "FiveDimensionsId": 14403
+     },
+     {
+      "Q iD": 81,
+      "Program": "Excel",
+      "Question": "أي مفتاح يستخدم للانتقال إلى التالي الخلية إلى اليمين؟",
+      "Correct Answer": "Tab",
+      "Wrong1": "Enter",
+      "Wrong2": "Arrow Up",
+      "Wrong3": "Arrow Down",
+      "FiveDimensionsId": 14404
+     },
+     {
+      "Q iD": 82,
+      "Program": "Excel",
+      "Question": "كيف تقوم بإدراج صف جديد؟",
+      "Correct Answer": "انقر بزر الماوس الأيمن على رأس الصف وحدد \"إدراج\"",
+      "Wrong1": "انقر فوق علامة التبويب \"إدراج\"",
+      "Wrong2": "انقر فوق علامة التبويب \"الصفحة الرئيسية\"",
+      "Wrong3": "انقر فوق علامة التبويب \"بيانات\"",
+      "FiveDimensionsId": 14405
+     },
+     {
+      "Q iD": 83,
+      "Program": "Excel",
+      "Question": "أي وظيفة تستخدم لحساب متوسط ​​نطاق من الخلايا؟",
+      "Correct Answer": "المتوسط",
+      "Wrong1": "المجموع",
+      "Wrong2": "العد",
+      "Wrong3": "الحد الأقصى",
+      "FiveDimensionsId": 14406
+     },
+     {
+      "Q iD": 84,
+      "Program": "Excel",
+      "Question": "كيف تحذف خلية؟",
+      "Correct Answer": "انقر بزر الماوس الأيمن على الخلية وحدد \"حذف",
+      "Wrong1": "اضغط على مفتاح الحذف",
+      "Wrong2": "اضغط على مفتاح المسافة الخلفية",
+      "Wrong3": "حدد الخلية واضغط على Ctrl + X",
+      "FiveDimensionsId": 14407
+     },
+     {
+      "Q iD": 85,
+      "Program": "Excel",
+      "Question": "ما هو مفتاح الاختصار لحفظ مصنف؟",
+      "Correct Answer": "Ctrl + S",
+      "Wrong1": "Ctrl + P",
+      "Wrong2": "Ctrl + N",
+      "Wrong3": "Ctrl + O",
+      "FiveDimensionsId": 14408
+     },
+     {
+      "Q iD": 86,
+      "Program": "Excel",
+      "Question": "ما هي الدالة التي تُستخدم لحساب العدد عند الخلايا في نطاق يحتوي على أرقام؟",
+      "Correct Answer": "العدد",
+      "Wrong1": "المجموع",
+      "Wrong2": "المتوسط",
+      "Wrong3": "الحد الأقصى",
+      "FiveDimensionsId": 14409
+     },
+     {
+      "Q iD": 87,
+      "Program": "Excel",
+      "Question": "كيف يمكنك تغيير حجم الخط للخلايا المحددة؟",
+      "Correct Answer": "حدد الخلايا واستخدم القائمة المنسدلة \"حجم الخط\"",
+      "Wrong1": "حدد الخلايا واضغط على Ctrl + B",
+      "Wrong2": "حدد الخلايا واضغط على Ctrl + I",
+      "Wrong3": "حدد الخلايا واضغط على Ctrl + U",
+      "FiveDimensionsId": 14410
+     },
+     {
+      "Q iD": 88,
+      "Program": "Excel",
+      "Question": "ما هي الدالة التي تُستخدم لتحديد القيمة الأعلى في مجموعة من الخلايا؟",
+      "Correct Answer": "الحد الأقصى",
+      "Wrong1": "الحد الأدنى",
+      "Wrong2": "المجموع",
+      "Wrong3": "المتوسط",
+      "FiveDimensionsId": 14411
+     },
+     {
+      "Q iD": 89,
+      "Program": "Excel",
+      "Question": "كيف يمكنك إدراج عمود جديد؟",
+      "Correct Answer": "انقر بزر الماوس الأيمن على رأس العمود وحدد \"إدراج",
+      "Wrong1": "انقر فوق علامة التبويب \"إدراج\"",
+      "Wrong2": "انقر فوق علامة التبويب \"الصفحة الرئيسية\"",
+      "Wrong3": "انقر فوق علامة التبويب \"بيانات\"",
+      "FiveDimensionsId": 14412
+     },
+     {
+      "Q iD": 90,
+      "Program": "Excel",
+      "Question": "ما هو مفتاح الاختصار لفتح مصنف جديد؟",
+      "Correct Answer": "Ctrl + N",
+      "Wrong1": "Ctrl + O",
+      "Wrong2": "Ctrl + S",
+      "Wrong3": "Ctrl + P",
+      "FiveDimensionsId": 14413
+     },
+     {
+      "Q iD": 91,
+      "Program": "Excel",
+      "Question": "ما هي الدالة المستخدمة لإيجاد الحد الأدنى للقيمة في نطاق من الخلايا؟",
+      "Correct Answer": "MIN",
+      "Wrong1": "MAX",
+      "Wrong2": "SUM",
+      "Wrong3": "AVERAGE",
+      "FiveDimensionsId": 14414
+     },
+     {
+      "Q iD": 92,
+      "Program": "Excel",
+      "Question": "كيف تنسخ محتويات خلية إلى خلية أخرى؟",
+      "Correct Answer": "حدد الخلية، واضغط على Ctrl + C، ثم حدد الخلية الوجهة واضغط على Ctrl + V",
+      "Wrong1": "حدد الخلية، واضغط على Ctrl + X، ثم حدد الخلية الوجهة واضغط على Ctrl + V",
+      "Wrong2": " حدد الخلية، واضغط على Ctrl + A، ثم حدد الخلية الوجهة واضغط على Ctrl + C",
+      "Wrong3": "حدد الخلية، واضغط على Ctrl + S، ثم حدد الخلية الوجهة واضغط على Ctrl + P",
+      "FiveDimensionsId": 14415
+     },
+     {
+      "Q iD": 93,
+      "Program": "Excel",
+      "Question": "ما هو مفتاح الاختصار لطباعة ورقة عمل؟",
+      "Correct Answer": "Ctrl + P",
+      "Wrong1": "Ctrl + S",
+      "Wrong2": "Ctrl + N",
+      "Wrong3": "Ctrl + O",
+      "FiveDimensionsId": 14416
+     },
+     {
+      "Q iD": 94,
+      "Program": "Excel",
+      "Question": "كيف تطبق التنسيق الغامق على خلية؟",
+      "Correct Answer": "حدد الخلية واضغط على Ctrl + B",
+      "Wrong1": "حدد الخلية واضغط على Ctrl + I",
+      "Wrong2": "حدد الخلية واضغط على Ctrl + U",
+      "Wrong3": "حدد الخلية واضغط على Ctrl + Shift + B",
+      "FiveDimensionsId": 14417
+     },
+     {
+      "Q iD": 95,
+      "Program": "Excel",
+      "Question": "ما هي الدالة التي تُستخدم لدمج سلسلتين نصيتين أو أكثر؟",
+      "Correct Answer": "الربط",
+      "Wrong1": "المجموع",
+      "Wrong2": "المتوسط",
+      "Wrong3": "العد",
+      "FiveDimensionsId": 14418
+     },
+     {
+      "Q iD": 96,
+      "Program": "Excel",
+      "Question": "كيف تطبق التنسيق المائل على خلية؟",
+      "Correct Answer": "حدد الخلية واضغط على Ctrl + I",
+      "Wrong1": "حدد الخلية واضغط على Ctrl + B",
+      "Wrong2": "حدد الخلية واضغط على Ctrl + U",
+      "Wrong3": "حدد الخلية واضغط على Ctrl + Shift + I",
+      "FiveDimensionsId": 14419
+     },
+     {
+      "Q iD": 97,
+      "Program": "Excel",
+      "Question": "ما هي الدالة التي تُستخدم لعدّ الخلايا غير الفارغة في نطاق معين؟",
+      "Correct Answer": "COUNTA",
+      "Wrong1": "العد",
+      "Wrong2": "المجموع",
+      "Wrong3": " المتوسط",
+      "FiveDimensionsId": 14420
+     },
+     {
+      "Q iD": 98,
+      "Program": "Excel",
+      "Question": "ما هي الطريقة لتطبيق تنسيق التسطير على خلية في Excel؟",
+      "Correct Answer": "حدد الخلية واضغط على Ctrl + U",
+      "Wrong1": "حدد الخلية واضغط على Ctrl + B",
+      "Wrong2": "حدد الخلية واضغط على Ctrl + I",
+      "Wrong3": "حدد الخلية واضغط على Ctrl + Shift + U",
+      "FiveDimensionsId": 14421
+     },
+     {
+      "Q iD": 99,
+      "Program": "Excel",
+      "Question": "ما هو الاختصار لفتح ملف Excel موجود؟",
+      "Correct Answer": "Ctrl + O",
+      "Wrong1": "Ctrl + N",
+      "Wrong2": "Ctrl + S",
+      "Wrong3": "Ctrl + P",
+      "FiveDimensionsId": 14422
+     },
+     {
+      "Q iD": 100,
+      "Program": "Excel",
+      "Question": "ما هي الدالة المستخدمة لتقريب رقم إلى عدد محدد من المنازل العشرية؟",
+      "Correct Answer": "ROUND",
+      "Wrong1": "SUM",
+      "Wrong2": "AVERAGE",
+      "Wrong3": "COUNT",
+      "FiveDimensionsId": 14423
+     },
+     {
+      "Q iD": 151,
+      "Program": "powerpoint",
+      "Question": "ما هي الوظيفة الأساسية لبرنامج Microsoft PowerPoint؟",
+      "Correct Answer": "إنشاء العروض التقديمية",
+      "Wrong1": " إنشاء جداول البيانات",
+      "Wrong2": "كتابة المستندات",
+      "Wrong3": "إدارة قواعد البيانات",
+      "FiveDimensionsId": 14474
+     },
+     {
+      "Q iD": 152,
+      "Program": "powerpoint",
+      "Question": "ما هي الشريحة في PowerPoint؟",
+      "Correct Answer": "صفحة واحدة داخل العرض التقديمي",
+      "Wrong1": "مجموعة من الشرائح ذات الصلة",
+      "Wrong2": "مجموعة من الصور",
+      "Wrong3": "نوع من تأثيرات الرسوم المتحركة",
+      "FiveDimensionsId": 14475
+     },
+     {
+      "Q iD": 153,
+      "Program": "powerpoint",
+      "Question": "أي نوع من العرض يُظهر صورة مصغرة لكل شريحة في العرض التقديمي في PowerPoint؟",
+      "Correct Answer": "عرض فرز الشرائح",
+      "Wrong1": "العرض العادي",
+      "Wrong2": "عرض عرض الشرائح",
+      "Wrong3": "عرض صفحة الملاحظات",
+      "FiveDimensionsId": 14476
+     },
+     {
+      "Q iD": 154,
+      "Program": "powerpoint",
+      "Question": "كيف تضيف شريحة جديدة إلى العرض التقديمي؟",
+      "Correct Answer": "انقر فوق الزر \"شريحة جديدة\"",
+      "Wrong1": "انقر فوق \"ملف\" > \"جديد\"",
+      "Wrong2": "اضغط على \"Ctrl + N\"",
+      "Wrong3": "انقر بزر الماوس الأيمن على الشريحة وحدد \"إدراج\"",
+      "FiveDimensionsId": 14477
+     },
+     {
+      "Q iD": 155,
+      "Program": "powerpoint",
+      "Question": "أي زر يستخدم لبدء عرض الشرائح؟",
+      "Correct Answer": "زر \"بدء عرض الشرائح\"",
+      "Wrong1": "فرز الشرائح ",
+      "Wrong2": "زر \"صفحة الملاحظات\"",
+      "Wrong3": "زر \"طباعة\"",
+      "FiveDimensionsId": 14478
+     },
+     {
+      "Q iD": 156,
+      "Program": "powerpoint",
+      "Question": "كيف تقوم بإدراج صورة في شريحة؟",
+      "Correct Answer": "إدراج > صور",
+      "Wrong1": "إدراج > أشكال",
+      "Wrong2": "إدراج > جدول",
+      "Wrong3": "إدراج > مخطط",
+      "FiveDimensionsId": 14479
+     },
+     {
+      "Q iD": 157,
+      "Program": "powerpoint",
+      "Question": "ما الفائدة الأساسية لعلامة التبويب \"الصفحة الرئيسية\" في PowerPoint؟",
+      "Correct Answer": "للوصول إلى أدوات التحرير والتنسيق الشائعة",
+      "Wrong1": "لتصميم المظهر العام للعرض التقديمي",
+      "Wrong2": "لإدراج كائنات في الشريحة",
+      "Wrong3": "لعرض العرض التقديمي بطرق مختلفة",
+      "FiveDimensionsId": 14480
+     },
+     {
+      "Q iD": 158,
+      "Program": "powerpoint",
+      "Question": "كيف تقوم بإضافة نص إلى شريحة؟",
+      "Correct Answer": "انقر فوق عنصر نائب للنص أو أدخل مربع نص",
+      "Wrong1": "انقر فوق \"إدراج\" > \"نص\"",
+      "Wrong2": "انقر فوق \"الصفحة الرئيسية\" > \"نص\"",
+      "Wrong3": "انقر فوق \"تصميم\" > \"نص\"",
+      "FiveDimensionsId": 14481
+     },
+     {
+      "Q iD": 159,
+      "Program": "powerpoint",
+      "Question": "ما مفتاح الاختصار المستخدم لنسخ النص أو الكائنات المحددة؟",
+      "Correct Answer": "Ctrl + C",
+      "Wrong1": "Ctrl + X",
+      "Wrong2": "Ctrl + V",
+      "Wrong3": "Ctrl + A",
+      "FiveDimensionsId": 14482
+     },
+     {
+      "Q iD": 160,
+      "Program": "powerpoint",
+      "Question": "كيف تقوم بتطبيق سمة على عرض تقديمي؟",
+      "Correct Answer": "التصميم > السمات",
+      "Wrong1": "الصفحة الرئيسية > الأنماط",
+      "Wrong2": "إدراج > السمة",
+      "Wrong3": "عرض > السمة",
+      "FiveDimensionsId": 14483
+     },
+     {
+      "Q iD": 161,
+      "Program": "powerpoint",
+      "Question": "ما الغرض من الرسوم المتحركة في PowerPoint؟",
+      "Correct Answer": "لإضافة الاهتمام البصري والحركة إلى الكائنات على الشريحة",
+      "Wrong1": "للتحكم في توقيت العرض التقديمي",
+      "Wrong2": "لإنشاء انتقالات شرائح مخصصة",
+      "Wrong3": "لإضافة تأثيرات صوتية إلى العرض التقديمي",
+      "FiveDimensionsId": 14484
+     },
+     {
+      "Q iD": 162,
+      "Program": "powerpoint",
+      "Question": "ما مفتاح الاختصار المستخدم للصق النص أو الكائنات المنسوخة؟",
+      "Correct Answer": "Ctrl + V",
+      "Wrong1": "Ctrl + X",
+      "Wrong2": "Ctrl + C",
+      "Wrong3": "Ctrl + A",
+      "FiveDimensionsId": 14485
+     },
+     {
+      "Q iD": 163,
+      "Program": "powerpoint",
+      "Question": "كيف تقوم بإدراج شريحة جديدة بعد الشريحة الحالية؟",
+      "Correct Answer": "نقر فوق الزر \"شريحة جديدة\"",
+      "Wrong1": "انقر بزر الماوس الأيمن على الشريحة الحالية وحدد \"شريحة جديدة\"",
+      "Wrong2": "اضغط على \"Ctrl + N\"",
+      "Wrong3": "انقر فوق \"الصفحة الرئيسية\" > \"شريحة جديدة\"",
+      "FiveDimensionsId": 14486
+     },
+     {
+      "Q iD": 164,
+      "Program": "powerpoint",
+      "Question": "ما الغرض من انتقالات الشرائح؟",
+      "Correct Answer": "للتحكم في كيفية انتقال شريحة واحدة إلى الشريحة التالية",
+      "Wrong1": "لإضافة الاهتمام البصري إلى الكائنات على الشريحة",
+      "Wrong2": "لإنشاء رسوم متحركة مخصصة",
+      "Wrong3": "لإضافة تأثيرات صوتية إلى العرض التقديمي",
+      "FiveDimensionsId": 14487
+     },
+     {
+      "Q iD": 165,
+      "Program": "powerpoint",
+      "Question": "كيف تقوم بإدراج شكل في شريحة؟",
+      "Correct Answer": "إدراج > أشكال",
+      "Wrong1": "إدراج > صور",
+      "Wrong2": "إدراج > جدول",
+      "Wrong3": "إدراج > مخطط",
+      "FiveDimensionsId": 14488
+     },
+     {
+      "Q iD": 166,
+      "Program": "powerpoint",
+      "Question": "ما مفتاح الاختصار المستخدم للتراجع عن آخر إجراء؟",
+      "Correct Answer": "Ctrl + Z",
+      "Wrong1": "Ctrl + Y",
+      "Wrong2": "Ctrl + X",
+      "Wrong3": "Ctrl + C",
+      "FiveDimensionsId": 14489
+     },
+     {
+      "Q iD": 167,
+      "Program": "powerpoint",
+      "Question": "كيف تقوم بحذف شريحة؟",
+      "Correct Answer": "انقر بزر الماوس الأيمن على الشريحة وحدد \"حذف الشريحة\"",
+      "Wrong1": "اضغط على مفتاح \"حذف\"",
+      "Wrong2": "انقر فوق \"الصفحة الرئيسية\" > \"حذف\"",
+      "Wrong3": "انقر فوق \"تصميم\" > \"حذف\"",
+      "FiveDimensionsId": 14490
+     },
+     {
+      "Q iD": 168,
+      "Program": "powerpoint",
+      "Question": "ما الغرض من علامة التبويب \"تصميم\" في PowerPoint؟",
+      "Correct Answer": "لتصميم المظهر العام للعرض التقديمي",
+      "Wrong1": "للوصول إلى أدوات التحرير والتنسيق الشائعة",
+      "Wrong2": "لإدراج الكائنات في الشريحة",
+      "Wrong3": "لعرض العرض التقديمي بطرق مختلفة",
+      "FiveDimensionsId": 14491
+     },
+     {
+      "Q iD": 169,
+      "Program": "powerpoint",
+      "Question": "ما مفتاح الاختصار يستخدم لتحديد جميع الكائنات في الشريحة؟",
+      "Correct Answer": "Ctrl + A",
+      "Wrong1": "Ctrl + C",
+      "Wrong2": "Ctrl + V",
+      "Wrong3": "Ctrl + X",
+      "FiveDimensionsId": 14492
+     },
+     {
+      "Q iD": 170,
+      "Program": "powerpoint",
+      "Question": "كيف يمكنك تغيير خلفية الشريحة؟",
+      "Correct Answer": "التصميم > أنماط الخلفية",
+      "Wrong1": "الصفحة الرئيسية > الخلفية",
+      "Wrong2": "إدراج > الخلفية",
+      "Wrong3": "عرض > الخلفية",
+      "FiveDimensionsId": 14493
+     },
+     {
+      "Q iD": 171,
+      "Program": "powerpoint",
+      "Question": "ما هو الغرض من عرض \"صفحة الملاحظات\"؟",
+      "Correct Answer": "لعرض ملاحظات المتحدث بجانب الشريحة",
+      "Wrong1": "لعرض صورة مصغرة لكل شريحة",
+      "Wrong2": "لعرض العرض التقديمي في وضع ملء الشاشة",
+      "Wrong3": "لتحرير الشريحة الرئيسية",
+      "FiveDimensionsId": 14494
+     },
+     {
+      "Q iD": 172,
+      "Program": "powerpoint",
+      "Question": "كيف يمكنك إدراج مخطط في شريحة؟",
+      "Correct Answer": "إدراج > مخطط",
+      "Wrong1": "إدراج > جدول",
+      "Wrong2": "إدراج > أشكال",
+      "Wrong3": "إدراج > صور",
+      "FiveDimensionsId": 14495
+     },
+     {
+      "Q iD": 173,
+      "Program": "powerpoint",
+      "Question": "ما مفتاح الاختصار المستخدم لحفظ العرض التقديمي؟",
+      "Correct Answer": "Ctrl + S",
+      "Wrong1": "Ctrl + P",
+      "Wrong2": "Ctrl + N",
+      "Wrong3": "Ctrl + O",
+      "FiveDimensionsId": 14496
+     },
+     {
+      "Q iD": 174,
+      "Program": "powerpoint",
+      "Question": "كيف يمكنك إدراج تحويل مقطع فيديو إلى شريحة؟",
+      "Correct Answer": "إدراج > فيديو",
+      "Wrong1": "إدراج > صور",
+      "Wrong2": "إدراج > جدول",
+      "Wrong3": "إدراج > مخطط",
+      "FiveDimensionsId": 14497
+     },
+     {
+      "Q iD": 175,
+      "Program": "powerpoint",
+      "Question": "ما الغرض من عرض \"عرض الشرائح\"؟",
+      "Correct Answer": "لعرض العرض التقديمي في وضع ملء الشاشة",
+      "Wrong1": "لعرض صورة مصغرة لكل شريحة",
+      "Wrong2": "لعرض ملاحظات المتحدث بجانب الشريحة",
+      "Wrong3": "لتحرير الشريحة الرئيسية",
+      "FiveDimensionsId": 14498
+     },
+     {
+      "Q iD": 226,
+      "Program": "pchardware",
+      "Question": "ما هو عقل الكمبيوتر؟",
+      "Correct Answer": "وحدة المعالجة المركزية (CPU)",
+      "Wrong1": "القرص الصلب",
+      "Wrong2": "ذاكرة الوصول العشوائي (RAM)",
+      "Wrong3": "اللوحة الأم",
+      "FiveDimensionsId": 14549
+     },
+     {
+      "Q iD": 227,
+      "Program": "pchardware",
+      "Question": "ما هي الوظيفة الأساسية لذاكرة الوصول العشوائي (RAM)؟",
+      "Correct Answer": "تخزن البيانات مؤقتًا أثناء استخدام الكمبيوتر",
+      "Wrong1": "تخزن البيانات بشكل دائم",
+      "Wrong2": "تتحكم في جميع مكونات الكمبيوتر",
+      "Wrong3": "تعالج المعلومات",
+      "FiveDimensionsId": 14550
+     },
+     {
+      "Q iD": 228,
+      "Program": "pchardware",
+      "Question": "ما هو جهاز التخزين الرئيسي للبيانات الدائمة؟",
+      "Correct Answer": "القرص الصلب",
+      "Wrong1": "ذاكرة الوصول العشوائي (RAM)",
+      "Wrong2": "وحدة المعالجة المركزية (CPU)",
+      "Wrong3": "اللوحة الأم",
+      "FiveDimensionsId": 14551
+     },
+     {
+      "Q iD": 229,
+      "Program": "pchardware",
+      "Question": "ما هي وظيفة اللوحة الأم؟",
+      "Correct Answer": "تربط جميع مكونات الكمبيوتر",
+      "Wrong1": "تخزن البيانات مؤقتًا",
+      "Wrong2": "تعالج المعلومات",
+      "Wrong3": "تعرض المعلومات على الشاشة",
+      "FiveDimensionsId": 14552
+     },
+     {
+      "Q iD": 230,
+      "Program": "pchardware",
+      "Question": "ما هو جهاز الإدخال المستخدم للكتابة؟",
+      "Correct Answer": "لوحة المفاتيح",
+      "Wrong1": "الماوس",
+      "Wrong2": "الشاشة",
+      "Wrong3": "الطابعة",
+      "FiveDimensionsId": 14553
+     },
+     {
+      "Q iD": 231,
+      "Program": "pchardware",
+      "Question": "ما هو جهاز الإخراج الذي يعرض الصور والنصوص؟",
+      "Correct Answer": "الشاشة",
+      "Wrong1": "لوحة المفاتيح",
+      "Wrong2": "الماوس",
+      "Wrong3": "الطابعة",
+      "FiveDimensionsId": 14554
+     },
+     {
+      "Q iD": 232,
+      "Program": "pchardware",
+      "Question": "ما هو جهاز الإدخال المستخدم للإشارة والنقر؟",
+      "Correct Answer": "الفأرة",
+      "Wrong1": "لوحة المفاتيح",
+      "Wrong2": "الشاشة",
+      "Wrong3": " الطابعة",
+      "FiveDimensionsId": 14555
+     },
+     {
+      "Q iD": 233,
+      "Program": "pchardware",
+      "Question": "ما هو جهاز الإخراج المستخدم لطباعة المستندات؟",
+      "Correct Answer": "الطابعة",
+      "Wrong1": "لوحة المفاتيح",
+      "Wrong2": "الفأرة",
+      "Wrong3": "لشاشة",
+      "FiveDimensionsId": 14556
+     },
+     {
+      "Q iD": 234,
+      "Program": "pchardware",
+      "Question": "ما هو الغرض من بطاقة الرسوميات؟",
+      "Correct Answer": "معالجة وعرض الرسوميات",
+      "Wrong1": "لتخزين البيانات بشكل دائم",
+      "Wrong2": "للتحكم في جميع مكونات الكمبيوتر",
+      "Wrong3": "لمعالجة المعلومات",
+      "FiveDimensionsId": 14557
+     },
+     {
+      "Q iD": 235,
+      "Program": "pchardware",
+      "Question": "ما هو الغرض من بطاقة الصوت؟",
+      "Correct Answer": "إنتاج وتشغيل الصوت",
+      "Wrong1": "لتخزين البيانات بشكل دائم",
+      "Wrong2": "للتحكم في جميع مكونات الكمبيوتر",
+      "Wrong3": "لمعالجة المعلومات",
+      "FiveDimensionsId": 14558
+     },
+     {
+      "Q iD": 236,
+      "Program": "pchardware",
+      "Question": "ما هو الغرض من بطاقة الشبكة؟",
+      "Correct Answer": "توصيل الكمبيوتر بالشبكة",
+      "Wrong1": "لتخزين البيانات مؤقتًا",
+      "Wrong2": "لمعالجة المعلومات",
+      "Wrong3": "لعرض المعلومات على الشاشة",
+      "FiveDimensionsId": 14559
+     },
+     {
+      "Q iD": 237,
+      "Program": "pchardware",
+      "Question": "ما هو الغرض من وحدة إمداد الطاقة (PSU)؟",
+      "Correct Answer": "لتوفير الطاقة للكمبيوتر",
+      "Wrong1": "لتخزين البيانات بشكل دائم",
+      "Wrong2": "للتحكم جميع مكونات الكمبيوتر",
+      "Wrong3": "لمعالجة المعلومات",
+      "FiveDimensionsId": 14560
+     },
+     {
+      "Q iD": 238,
+      "Program": "pchardware",
+      "Question": "ما الغرض من مروحة التبريد؟",
+      "Correct Answer": "لتبريد مكونات الكمبيوتر",
+      "Wrong1": "لتخزين البيانات مؤقتًا",
+      "Wrong2": "للتحكم في جميع مكونات الكمبيوتر",
+      "Wrong3": "لمعالجة المعلومات",
+      "FiveDimensionsId": 14561
+     },
+     {
+      "Q iD": 239,
+      "Program": "pchardware",
+      "Question": "ما هو الفرق بين ذاكرة الوصول العشوائي (RAM) وذاكرة القراءة فقط (ROM)؟",
+      "Correct Answer": "ذاكرة الوصول العشوائي (RAM): يمكن القراءة منها والكتابة فيها  & ذاكرة القراءة فقط (ROM): يمكن القراءة منها فقط",
+      "Wrong1": "ذاكرة الوصول العشوائي غير متقلبة، بينما ذاكرة القراءة فقط متقلبة",
+      "Wrong2": "ذاكرة الوصول العشوائي أسرع من ذاكرة القراءة فقط",
+      "Wrong3": "ذاكرة القراءة فقط أسرع من ذاكرة الوصول العشوائي",
+      "FiveDimensionsId": 14562
+     },
+     {
+      "Q iD": 240,
+      "Program": "pchardware",
+      "Question": "ما هي الوحدة المستخدمة لقياس سرعة المعالج؟",
+      "Correct Answer": "جيجا هرتز (GHz)",
+      "Wrong1": "جيجابايت (GB)",
+      "Wrong2": "ميجا هرتز (MHz)",
+      "Wrong3": "تيرابايت (TB)",
+      "FiveDimensionsId": 14563
+     },
+     {
+      "Q iD": 241,
+      "Program": "pchardware",
+      "Question": "ماذا تعني USB؟",
+      "Correct Answer": "الناقل التسلسلي العالمي",
+      "Wrong1": "ناقل النظام العالمي",
+      "Wrong2": "ناقل النظام الموحد",
+      "Wrong3": "تسلسلي فريد حافلة",
+      "FiveDimensionsId": 14564
+     },
+     {
+      "Q iD": 242,
+      "Program": "pchardware",
+      "Question": "ما هو المنفذ؟",
+      "Correct Answer": "موصل يستخدم لتوصيل الأجهزة بالكمبيوتر",
+      "Wrong1": "نوع من أجهزة التخزين",
+      "Wrong2": "نوع من المعالجات",
+      "Wrong3": "نوع من البرامج",
+      "FiveDimensionsId": 14565
+     },
+     {
+      "Q iD": 243,
+      "Program": "pchardware",
+      "Question": "ما هو الجهاز الطرفي؟",
+      "Correct Answer": "إي جهاز خارجي متصل بالكمبيوتر",
+      "Wrong1": "المكونات الرئيسية داخل هيكل الكمبيوتر",
+      "Wrong2": "نظام تشغيل الكمبيوتر",
+      "Wrong3": "تطبيقات البرامج المثبتة على الكمبيوتر",
+      "FiveDimensionsId": 14566
+     },
+     {
+      "Q iD": 244,
+      "Program": "pchardware",
+      "Question": "ما هو الغرض من الماسح الضوئي؟",
+      "Correct Answer": "لتحويل المستندات المادية إلى صور رقمية",
+      "Wrong1": "لطباعة المستندات",
+      "Wrong2": "لتشغيل الموسيقى",
+      "Wrong3": "لتصفح الإنترنت",
+      "FiveDimensionsId": 14567
+     },
+     {
+      "Q iD": 245,
+      "Program": "pchardware",
+      "Question": "ما هو الغرض من كاميرا الويب؟",
+      "Correct Answer": "لالتقاط الفيديو والصور",
+      "Wrong1": "لطباعة المستندات",
+      "Wrong2": "لتشغيل الموسيقى",
+      "Wrong3": "لتصفح الإنترنت",
+      "FiveDimensionsId": 14568
+     },
+     {
+      "Q iD": 246,
+      "Program": "pchardware",
+      "Question": "ما هو الغرض من الميكروفون؟",
+      "Correct Answer": "لتسجيل الصوت",
+      "Wrong1": "لتشغيل الموسيقى",
+      "Wrong2": " لطباعة المستندات",
+      "Wrong3": "لتصفح الإنترنت",
+      "FiveDimensionsId": 14569
+     },
+     {
+      "Q iD": 247,
+      "Program": "pchardware",
+      "Question": "ما هو الغرض من مكبرات الصوت؟",
+      "Correct Answer": "لإنتاج الصوت",
+      "Wrong1": "لتسجيل الصوت",
+      "Wrong2": "طباعة المستندات",
+      "Wrong3": "لتصفح الإنترنت",
+      "FiveDimensionsId": 14570
+     },
+     {
+      "Q iD": 248,
+      "Program": "pchardware",
+      "Question": "ما الغرض من المودم؟",
+      "Correct Answer": "لتوصيل الكمبيوتر بالإنترنت",
+      "Wrong1": "لتخزين البيانات مؤقتًا",
+      "Wrong2": "لمعالجة المعلومات",
+      "Wrong3": "لعرض المعلومات على الشاشة",
+      "FiveDimensionsId": 14571
+     },
+     {
+      "Q iD": 249,
+      "Program": "pchardware",
+      "Question": "ما الغرض من جهاز التوجيه؟",
+      "Correct Answer": "لتوجيه حركة المرور على الشبكة",
+      "Wrong1": "لتخزين البيانات بشكل دائم",
+      "Wrong2": "لمعالجة المعلومات",
+      "Wrong3": "لعرض المعلومات على الشاشة",
+      "FiveDimensionsId": 14572
+     },
+     {
+      "Q iD": 250,
+      "Program": "pchardware",
+      "Question": "ما الغرض من جدار الحماية؟",
+      "Correct Answer": "لحماية الكمبيوتر من الوصول غير المصرح به",
+      "Wrong1": " لتخزين البيانات بشكل دائم",
+      "Wrong2": "لمعالجة المعلومات",
+      "Wrong3": "لعرض المعلومات على الشاشة",
+      "FiveDimensionsId": 14573
+     }
+    ]
+    }
+    
